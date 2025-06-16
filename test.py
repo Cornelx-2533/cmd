@@ -13,7 +13,7 @@ def show_help():
 Available Commands:
   help           - Show this help message
   clear          - Clear the screen
-  exit           - Exit the shell
+  exit           - Close/Exit the shell
   echo [text]    - Print the given text
   os             - Show OS information
   cwd            - Show current working directory
